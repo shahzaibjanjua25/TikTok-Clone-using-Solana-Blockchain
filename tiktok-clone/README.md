@@ -1,1 +1,1 @@
-#Sample solana contract by Shah Zaib Sajid
+# Sample solana contract by Shah Zaib Sajid
